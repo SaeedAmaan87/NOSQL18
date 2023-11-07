@@ -1,0 +1,28 @@
+{
+    "name": "NOSQL18",
+    "version": "1.0.0",
+    "description": "A Social Network API using Express.js, MongoDB database, and Mongoose ODM",
+    "main": "server.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "start": "nodemon server.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/SaeedAmaan87/NOSQL18.git"
+    },
+    "author": "SaeedAmaan87",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/SaeedAmaan87/NOSQL18/issues"
+    },
+    "homepage": "https://github.com/SaeedAmaan87/NOSQL18I#readme",
+    "devDependencies": {
+        "nodemon": "^2.0.19"
+    },
+    "dependencies": {
+        "express": "^4.18.2",
+        "moment": "^2.29.4",
+        "mongoose": "^6.4.4"
+    }
+}
